@@ -54,6 +54,4 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-[Your Name / Your GitHub Username] - [Your Email Address (Optional)]
-
-Project Link: [YOUR_GITHUB_REPOSITORY_URL]
+Abhishek Maurya
